@@ -1,11 +1,3 @@
-/*
- * ObjectManager.h
- * COMP2160 Programming Practices
- *
- * Object Manager header file
- */
-
-
 //This is the interface for the object manager.
 //Note: The terms object and block are used interchangably below.
 

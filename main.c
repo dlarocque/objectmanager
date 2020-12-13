@@ -1,11 +1,3 @@
-// NAME : Daniel La Rocque
-// STUDENT NUMBER : 7890680
-// COURSE : COMP 2160, SECTION BO2
-// INSTRUCTOR : Rasit Eskicioglu
-// ASSIGNMENT : Assignment 4, QUESTION : Question 1
-// 
-// REMARKS : Implement an Object Manager in C
-
 #include "ObjectManager.h"
 #include <stdio.h>
 
